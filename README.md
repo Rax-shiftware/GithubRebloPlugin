@@ -1,6 +1,6 @@
 # 1. Plugin
 / SOME CHANGES DELETED?! /
-plugin: GirhubPlugin
+plugin: GithubPlugin
 used in: discord (normally Aliucord)
 
 ## 2. Changes
